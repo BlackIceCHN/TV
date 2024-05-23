@@ -1,0 +1,161 @@
+﻿#EXTM3U #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml
+#EXTINF:-1,ABC (WPLG-DT1) Miami FL (720p)
+https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
+#EXTINF:-1,ABC 2 Atlanta GA (WSB-TV) (720p)
+https://lnc-wsb2.tubi.video/playlist.m3u8
+#EXTINF:-1,ABC 7 Los Angeles CA (KABC-TV) (720p)
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1,ABC 13 Las Vegas NV (KTNV) (720p)
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1,ABC Bakersfield CA (KERO) (720p)
+https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1,ABC News New York NY (WABC-TV) (720p)
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1,AMC Absolute Reality
+https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,Aspire TV Life (720p)
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,AWE Encore (720p)
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,AXS TV NOW
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1,BBC America East (720p)
+https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
+#EXTINF:-1,BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,Bloomberg Quicktake
+https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Brat TV (1080p)
+https://brat-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,CBN Family (1080p)
+https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,CBN News National (1080p)
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,CBS 9 Washington DC (WUSA) (1080p)
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
+#EXTINF:-1,CBS News Los Angeles (720p)
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1,CBS News Philadelphia (720p)
+https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
+#EXTINF:-1,CBSN Baltimore
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1,CineLife
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1,CineView
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
+#EXTINF:-1,CityNews (720p)
+https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1,Clarity 4K (2160p)
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1,CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1,CNN USA (720p)
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Comedy Dynamics
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8
+#EXTINF:-1,Court TV (720p)
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1,Crime Hunters
+https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
+#EXTINF:-1,Cruz TV
+https://reflect-communitytv.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1,Dateline 24/7
+https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1,Dove Channel
+https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1,Dr. G Medical Examiner (720p)
+https://lnc-dr-g-filmrise.tubi.video/index.m3u8
+#EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://lnc-waga.tubi.video/index.m3u8
+#EXTINF:-1,FOX 5 New York NY (WNYW) (720p)
+https://lnc-wnyw.tubi.video/index.m3u8
+#EXTINF:-1,FOX 5 Washington DC (WTTG) (720p)
+https://lnc-wttg.tubi.video/index.m3u8
+#EXTINF:-1,FOX 11 Los Angeles CA (KTTV) (720p)
+https://lnc-kttv.tubi.video/index.m3u8
+#EXTINF:-1,FOX 29 Philadelphia PA (WTXF-TV) (720p)
+https://lnc-wtxf.tubi.video/index.m3u8
+#EXTINF:-1,FOX Business (1080p)
+http://41.205.93.154/FOXBUSINESS/index.m3u8
+#EXTINF:-1,Fox News Channel
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1,FOX News Now (720p)
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Fox Soul (1080p)
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Game Show Network East (720p)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1,Go2Travel (1080p)
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Heartland
+https://d76toswjmqqzm.cloudfront.net/playlist.m3u8
+#EXTINF:-1,History Time (1080p)
+https://lnc-historytime.tubi.video/playlist.m3u8
+#EXTINF:-1,Homeful (1080p)
+https://lnc-homeful.tubi.video/playlist.m3u8
+#EXTINF:-1,HSN West Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+#EXTINF:-1,In the kitchen Shopping
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1,ION
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:-1,ION Mystery (1080p)
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1,ION Plus
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:-1,LA CityView 35 (1080p)
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1,Love Nature (1080p)
+https://lnc-love-nature.tubi.video/playlist.m3u8
+#EXTINF:-1,Merit Street (1080p)
+https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
+#EXTINF:-1,myTime Movie network
+https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1,NBC 11 Baltimore MD (WBAL) (720p)
+https://lnc-wbal.tubi.video/playlist.m3u8
+#EXTINF:-1,NBC Chicago News 24/7 (1080p)
+https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+#EXTINF:-1,NBC News Now (1080p)
+https://lnc-nbc-news-now.tubi.video/master.m3u8
+#EXTINF:-1,NBCLX Home
+https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1,News 12 New York (1080p)
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1,Newsmax (1080p)
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1,Nosey Divorce Court (720p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
+#EXTINF:-1,Nosey Judge Karen's Court (480p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06f9ec_all/playlist.m3u8
+#EXTINF:-1,OAN (1080p)
+https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,PAC 12 Insider (1080p)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Racing America (720p)
+https://lnc-racing-america.tubi.video/playlist.m3u8
+#EXTINF:-1,Real Families (1080p)
+https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,Redbox 1: Spotlight (1080p)
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1,Redbox 2: Comedy (1080p)
+https://comedy-redbox.amagi.tv/playlist.m3u8
+#EXTINF:-1,Redbox 3: Rush (1080p)
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1,Scripps News (1080p)
+https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
+#EXTINF:-1,So...Real
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
+#EXTINF:-1,Tastemade
+https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1,The First (1080p)
+https://thefirst-distroscale.amagi.tv/index.m3u8
+#EXTINF:-1,Timeline
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1,TMZ (720p)
+https://lnc-tmz.tubi.video/index.m3u8
+#EXTINF:-1,Today All Day (1080p)
+https://lnc-today.tubi.video/master.m3u8
+#EXTINF:-1,USA Today (720p)
+https://lnc-usa-today.tubi.video/playlist.m3u8
