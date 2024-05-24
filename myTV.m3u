@@ -71,22 +71,14 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamic
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1,Crime Hunters
 https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
-#EXTINF:-1,CSI
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=
 #EXTINF:-1,Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-#EXTINF:-1,Disney International
-http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1,Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
 #EXTINF:-1,Dr. G Medical Examiner (720p)
 https://lnc-dr-g-filmrise.tubi.video/index.m3u8
-#EXTINF:-1,Dubai One
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 #EXTINF:-1,Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1,Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
 https://lnc-waga.tubi.video/index.m3u8
 #EXTINF:-1,FOX 5 New York NY (WNYW) (720p)
@@ -97,19 +89,13 @@ https://lnc-wttg.tubi.video/index.m3u8
 https://lnc-kttv.tubi.video/index.m3u8
 #EXTINF:-1,FOX 29 Philadelphia PA (WTXF-TV) (720p)
 https://lnc-wtxf.tubi.video/index.m3u8
-#EXTINF:-1,FOX Business (1080p)
-http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1,Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1,FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Fox Soul (1080p)
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Game Show Central
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e54187aae660e00093561d6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=167&terminate=false&userId=
 #EXTINF:-1,Game Show Network East
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
-#EXTINF:-1,Game Show Network East (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1,GB News
 https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
@@ -123,8 +109,6 @@ https://lnc-historytime.tubi.video/playlist.m3u8
 https://lnc-homeful.tubi.video/playlist.m3u8
 #EXTINF:-1,HSN West Shopping
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
-#EXTINF:-1,In the kitchen Shopping
-https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1,ION
 https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
 #EXTINF:-1,ION
@@ -135,13 +119,9 @@ https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1,ION Plus
 https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-#EXTINF:-1,ION Plus East
-https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1,ION TV East
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1,LA CityView 35
-https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
-#EXTINF:-1,LA CityView 35 (1080p)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1,LiveNOW from FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
