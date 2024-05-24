@@ -127,7 +127,7 @@ https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,Love Nature (1080p)
+#EXTINF:-1,Love Nature
 https://lnc-love-nature.tubi.video/playlist.m3u8
 #EXTINF:-1,Merit Street (1080p)
 https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
@@ -141,9 +141,9 @@ https://lnc-wbal.tubi.video/playlist.m3u8
 https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
 #EXTINF:-1,NBC News NOW
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-#EXTINF:-1,NBC News Now
+#EXTINF:-1,NBC News NOW
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
-#EXTINF:-1,NBC News Now (1080p)
+#EXTINF:-1,NBC News NOW
 https://lnc-nbc-news-now.tubi.video/master.m3u8
 #EXTINF:-1,NBCLX Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
@@ -151,7 +151,7 @@ https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 https://lnc-news12.tubi.video/index.m3u8
 #EXTINF:-1,Newsmax
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1,Newsmax (1080p)
+#EXTINF:-1,Newsmax
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 #EXTINF:-1,NextUp Live Comedy
 https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
@@ -163,11 +163,9 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,PAC 12 Insider (1080p)
 https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1,Paramount Movie Channel
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=
 #EXTINF:-1,Pop
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
-#EXTINF:-1,Racing America (720p)
+#EXTINF:-1,Racing America
 https://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1,Real Families (1080p)
 https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
@@ -189,21 +187,13 @@ https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
 #EXTINF:-1,Stadium
 https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-#EXTINF:-1,STIRR City Baltimore
-https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
-#EXTINF:-1,STIRR City Las Vegas
-https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
-#EXTINF:-1,STIRR City Los Angeles
-https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
-#EXTINF:-1,STIRR City Washington D.C.
-https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
 #EXTINF:-1,STIRR Movies
 https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 #EXTINF:-1,Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1,Tastemade
+#EXTINF:-1,Tastemade ES
 https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Tastemade
+#EXTINF:-1,Tastemade En
 https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
 #EXTINF:-1,TBS
 http://143.244.60.30/TBS/index.m3u8
