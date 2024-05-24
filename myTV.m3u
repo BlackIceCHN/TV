@@ -1,4 +1,6 @@
 ﻿#EXTM3U #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml
+#EXTINF:-1,&Flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
 #EXTINF:-1,ABC (WPLG-DT1) Miami FL (720p)
 https://pubads.g.doubleclick.net/ssai/event/tQD6w9OJQVOobcyV3Dammw/master.m3u8
 #EXTINF:-1,ABC 2 Atlanta GA (WSB-TV) (720p)
@@ -9,32 +11,54 @@ https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x
 https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
 #EXTINF:-1,ABC Bakersfield CA (KERO) (720p)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
+#EXTINF:-1,ABC News Live
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1,ABC News New York NY (WABC-TV) (720p)
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1,Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,AMC Absolute Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1,Aspire TV Life (720p)
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1,AWE Encore (720p)
 https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,AXS TV Now
+https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1,AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1,BBC
+https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1,BBC America East (720p)
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1,BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,Bloomberg Asia
+https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+#EXTINF:-1,Bloomberg Originals
+https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 #EXTINF:-1,Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Brat TV
+https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,Brat TV (1080p)
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,CBN Family (1080p)
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1,CBN News National (1080p)
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1,CBS 9 Washington DC (WUSA) (1080p)
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA-2/index.m3u8
+#EXTINF:-1,CBS News Los Angeles
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1,CBS News Los Angeles (720p)
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1,CBS News Miami
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:-1,CBS News Philadelphia (720p)
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
 #EXTINF:-1,CBSN Baltimore
@@ -45,8 +69,20 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1,CityNews (720p)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1,Clarity 4K
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1,Clarity 4K
+https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1,Clarity 4K (2160p)
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,CNN
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
+#EXTINF:-1,CNN
+https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1,CNN International Europe
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1,CNN USA (720p)
@@ -59,12 +95,22 @@ https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 https://amg01201-cinedigmenterta-crimehunters-cineverse-cnqvb.amagi.tv/playlist/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8
 #EXTINF:-1,Cruz TV
 https://reflect-communitytv.cablecast.tv/live-4/live/live.m3u8
+#EXTINF:-1,CSI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd29e4aa26700076c0d06&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=355&terminate=false&userId=
 #EXTINF:-1,Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
+#EXTINF:-1,Disney International
+http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 #EXTINF:-1,Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
 #EXTINF:-1,Dr. G Medical Examiner (720p)
 https://lnc-dr-g-filmrise.tubi.video/index.m3u8
+#EXTINF:-1,Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1,Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
 https://lnc-waga.tubi.video/index.m3u8
 #EXTINF:-1,FOX 5 New York NY (WNYW) (720p)
@@ -83,8 +129,14 @@ http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Fox Soul (1080p)
 https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Game Show Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e54187aae660e00093561d6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e54187aae660e00093561d6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=167&terminate=false&userId=
+#EXTINF:-1,Game Show Network East
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1,Game Show Network East (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1,GB News
+https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
 #EXTINF:-1,Go2Travel (1080p)
 https://go2thls.wns.live/hls/stream.m3u8
 #EXTINF:-1,Heartland
@@ -98,31 +150,55 @@ https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
 #EXTINF:-1,In the kitchen Shopping
 https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
 #EXTINF:-1,ION
+https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+#EXTINF:-1,ION
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1,ION Mystery (1080p)
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1,ION Plus
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:-1,ION Plus
+https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+#EXTINF:-1,ION Plus East
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:-1,ION TV East
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:-1,LA CityView 35
+https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
 #EXTINF:-1,LA CityView 35 (1080p)
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1,LiveNOW from FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,Love Nature (1080p)
 https://lnc-love-nature.tubi.video/playlist.m3u8
 #EXTINF:-1,Merit Street (1080p)
 https://tbn-jw.cdn.vustreams.com/live/merit-dev/live.isml/playlist.m3u8
+#EXTINF:-1,MovieSphere
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
 #EXTINF:-1,myTime Movie network
 https://mytime-tcl.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1,NBC 11 Baltimore MD (WBAL) (720p)
 https://lnc-wbal.tubi.video/playlist.m3u8
 #EXTINF:-1,NBC Chicago News 24/7 (1080p)
 https://nbculocalfast.akamaized.net/hls/live/2096797/nbcchicago/master.m3u8
+#EXTINF:-1,NBC News NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1,NBC News Now
+https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1,NBC News Now (1080p)
 https://lnc-nbc-news-now.tubi.video/master.m3u8
 #EXTINF:-1,NBCLX Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1,News 12 New York (1080p)
 https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1,Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1,Newsmax (1080p)
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+#EXTINF:-1,NextUp Live Comedy
+https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
 #EXTINF:-1,Nosey Divorce Court (720p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e76d1474f9020c06f9ee_all/playlist.m3u8
 #EXTINF:-1,Nosey Judge Karen's Court (480p)
@@ -131,6 +207,10 @@ https://stitcheraws.unreel.me/wse-node02.powr.com/powr/ngrp:5eb1e7261474f9020c06
 https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,PAC 12 Insider (1080p)
 https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Paramount Movie Channel
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cb0cae7a461406ffe3f5213&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=100&terminate=false&userId=
+#EXTINF:-1,Pop
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 #EXTINF:-1,Racing America (720p)
 https://lnc-racing-america.tubi.video/playlist.m3u8
 #EXTINF:-1,Real Families (1080p)
@@ -141,21 +221,57 @@ https://spotlight-redbox.amagi.tv/playlist.m3u8
 https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1,Redbox 3: Rush (1080p)
 https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8
+#EXTINF:-1,RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1,RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1,Scripps News (1080p)
 https://livetv-fa.tubi.video/scripps-news/playlist.m3u8
+#EXTINF:-1,Sky News
+https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1,So...Real
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8
+#EXTINF:-1,Stadium
+https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
+#EXTINF:-1,STIRR City Baltimore
+https://dai.google.com/linear/hls/event/jCNW8TtPRe6lnJMMVBZWVA/master.m3u8
+#EXTINF:-1,STIRR City Las Vegas
+https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
+#EXTINF:-1,STIRR City Los Angeles
+https://dai.google.com/linear/hls/event/n3PVAFmPTJSVYjdSVf7XZw/master.m3u8
+#EXTINF:-1,STIRR City Washington D.C.
+https://dai.google.com/linear/hls/event/_VmeKujXTf-nc9Lr2NO6tA/master.m3u8
+#EXTINF:-1,STIRR Movies
+https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
+#EXTINF:-1,Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1,Tastemade
 https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,Tastemade
+https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
+#EXTINF:-1,TBS
+http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1,The Film Detective
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
 #EXTINF:-1,The First (1080p)
 https://thefirst-distroscale.amagi.tv/index.m3u8
+#EXTINF:-1,The Lego Channel
+https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
 #EXTINF:-1,Timeline
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1,TMZ
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtmz/CDN/playlist.m3u8
 #EXTINF:-1,TMZ (720p)
 https://lnc-tmz.tubi.video/index.m3u8
 #EXTINF:-1,Today All Day (1080p)
 https://lnc-today.tubi.video/master.m3u8
+#EXTINF:-1,Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1,USA Today (720p)
 https://lnc-usa-today.tubi.video/playlist.m3u8
+#EXTINF:-1,Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1,Wild Planet
+https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
