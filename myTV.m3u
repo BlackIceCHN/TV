@@ -99,9 +99,5 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1,Wild Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1,HBO USA
-https://bigembed.hlsjs.ru/lb/ustvhbo/playlist.m3u8
 #EXTINF:-1,CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,CNN FHD
-http://fl2.moveonjoy.com/CNN/index.m3u8
+https://jmp2.uk/sam-GBBD8000016N.m3u8
