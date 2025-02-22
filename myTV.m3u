@@ -101,9 +101,5 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1,Atlanta Channel (720p)
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1,Atlanta's 57 WATC 57.1 (720p)
-https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8
-#EXTINF:-1,Atlanta's 57 WATC TOO 57.2 (720p)
-https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
 https://apollo.production-public.tubi.io/live/ac-waga.m3u8
