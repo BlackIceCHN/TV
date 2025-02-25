@@ -103,15 +103,15 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
 https://apollo.production-public.tubi.io/live/ac-waga.m3u8
-#EXTINF:-1 tvg-id="USBD300008G1" tvg-name="USBD300008G1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20250217T210805SQUARE.png" group-title="Action & Drama" , Bounce XL
+#EXTINF:-1,Bounce XL
 https://jmp2.uk/sam-USBD300008G1.m3u8
-#EXTINF:-1 tvg-id="USBC240001823" tvg-name="USBC240001823" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20241014T232222SQUARE.png" group-title="Action & Drama" , Brat TV
+#EXTINF:-1,Brat TV
 https://jmp2.uk/sam-USBC240001823.m3u8
-#EXTINF:-1 tvg-id="USBD270001633" tvg-name="USBD270001633" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20241228T011437SQUARE.png" group-title="Movies" , Hallmark Movies & More
+#EXTINF:-1,Hallmark Movies & More
 https://jmp2.uk/sam-USBD270001633.m3u8
-#EXTINF:-1 tvg-id="USBB5200019FO" tvg-name="USBB5200019FO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20241228T011521SQUARE.png" group-title="Movies" , Movie Favorites By Lifetime
+#EXTINF:-1,Movie Favorites By Lifetime
 https://jmp2.uk/sam-USBB5200019FO.m3u8
-#EXTINF:-1 tvg-id="USBD700011RE" tvg-name="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20241203T004808SQUARE.png" group-title="Movies" , Gravitas Movies
+#EXTINF:-1,Gravitas Movies
 https://jmp2.uk/sam-USBD700011RE.m3u8
-#EXTINF:-1 tvg-id="USBC3900018K6" tvg-name="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20240520T223400SQUARE.png" group-title="Movies" , MyTime Movie Network
+#EXTINF:-1,MyTime Movie Network
 https://jmp2.uk/sam-USBC3900018K6.m3u8
