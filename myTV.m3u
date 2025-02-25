@@ -103,3 +103,7 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
 https://apollo.production-public.tubi.io/live/ac-waga.m3u8
+#EXTINF:-1 tvg-id="USBD300008G1" tvg-name="USBD300008G1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20250217T210805SQUARE.png" group-title="Action & Drama" , Bounce XL
+https://jmp2.uk/sam-USBD300008G1.m3u8
+#EXTINF:-1 tvg-id="USBC240001823" tvg-name="USBC240001823" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20241014T232222SQUARE.png" group-title="Action & Drama" , Brat TV
+https://jmp2.uk/sam-USBC240001823.m3u8
