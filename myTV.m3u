@@ -7,14 +7,26 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1,AMC Absolute Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,American Crimes
+https://jmp2.uk/sam-USBD42000250Q.m3u8
+#EXTINF:-1,Ancient Aliens
+https://jmp2.uk/sam-US3300010F5.m3u8
 #EXTINF:-1,Aspire TV Life (720p)
 https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Atlanta Channel (720p)
+http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
 #EXTINF:-1,AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1,BBC America East (720p)
 https://bcovlive-a.akamaihd.net/4e7f273ae0a04ad6b7d2e543df61e362/us-west-2/6240731308001/playlist.m3u8
 #EXTINF:-1,BBC News (North America) (1080p)
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1,Bounce XL
+https://jmp2.uk/sam-USBD300008G1.m3u8
+#EXTINF:-1,Brat TV
+https://jmp2.uk/sam-USBC240001823.m3u8
+#EXTINF:-1,Caillou español
+https://jmp2.uk/sam-ES4800002OZ.m3u8
 #EXTINF:-1,CBN Family (1080p)
 https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8
 #EXTINF:-1,CBN News National (1080p)
@@ -33,8 +45,16 @@ https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/C
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-rialto-samsungnz/playlist.m3u8
 #EXTINF:-1,CityNews (720p)
 https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+#EXTINF:-1,CNN
+https://jmp2.uk/sam-GBBD8000016N.m3u8
+#EXTINF:-1,CNN FAST
+https://jmp2.uk/sam-GBBD1900008O3.m3u8
 #EXTINF:-1,CNN USA (720p)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1,Conan O'Brien TV
+https://jmp2.uk/sam-GB300001QO.m3u8
+#EXTINF:-1,Crime 24/7
+https://jmp2.uk/sam-USAK3508703A.m3u8
 #EXTINF:-1,C-SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1,Dateline 24/7
@@ -43,16 +63,32 @@ https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1,Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
+#EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
+https://apollo.production-public.tubi.io/live/ac-waga.m3u8
 #EXTINF:-1,Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1,FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,FOX SOUL
+https://jmp2.uk/sam-USBA300032J7.m3u8
 #EXTINF:-1,Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1,Game Show Central
+https://jmp2.uk/sam-USAJ3400012FA.m3u8
 #EXTINF:-1,GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 #EXTINF:-1,Go2Travel (1080p)
 https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1,Gravitas Movies
+https://jmp2.uk/sam-USBD700011RE.m3u8
+#EXTINF:-1,Great! Movies
+https://jmp2.uk/sam-GBBC900007Q5.m3u8
+#EXTINF:-1,Great! romance
+https://jmp2.uk/sam-GBBC900008L9.m3u8
+#EXTINF:-1,Gusto TV
+https://jmp2.uk/sam-USAK3508724A.m3u8
+#EXTINF:-1,Hallmark Movies & More
+https://jmp2.uk/sam-USBD270001633.m3u8
 #EXTINF:-1,ION
 https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1,ION Mystery (1080p)
@@ -61,12 +97,24 @@ https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1,Kartoon Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1,La 1 español
+https://jmp2.uk/sam-ESBC4100001NZ.m3u8
 #EXTINF:-1,LA CityView 35
 https://reflect-losangeles.cablecast.tv/live-3/live/live.m3u8
+#EXTINF:-1,Law & Crime
+https://jmp2.uk/sam-USAK3508710A.m3u8
 #EXTINF:-1,Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,Love the Planet
+https://jmp2.uk/sam-GBBD500001F5.m3u8
+#EXTINF:-1,Movie Favorites By Lifetime
+https://jmp2.uk/sam-USBB5200019FO.m3u8
+#EXTINF:-1,Mysteries Xplored
+https://jmp2.uk/sam-USBB5200028MM.m3u8
+#EXTINF:-1,MyTime Movie Network
+https://jmp2.uk/sam-USBC3900018K6.m3u8
 #EXTINF:-1,NBC News NOW
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+https://jmp2.uk/sam-GBBB1500004LG.m3u8
 #EXTINF:-1,NBCLX Home
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1,Newsmax
@@ -75,6 +123,8 @@ https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 #EXTINF:-1,PAC 12 Insider (1080p)
 https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,Peter Rabbit español
+https://jmp2.uk/sam-ESBD1400002W4.m3u8
 #EXTINF:-1,Real Families (1080p)
 https://lds-realfamilies-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1,Real Wild
@@ -89,51 +139,27 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1,Showtime Next East
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1,TBS
-http://143.244.60.30/TBS/index.m3u8
-#EXTINF:-1,The Film Detective
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
-#EXTINF:-1,Timeline
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
-#EXTINF:-1,Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1,Atlanta Channel (720p)
-http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/playlist.m3u8
-#EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
-https://apollo.production-public.tubi.io/live/ac-waga.m3u8
-#EXTINF:-1,Bounce XL
-https://jmp2.uk/sam-USBD300008G1.m3u8
-#EXTINF:-1,Brat TV
-https://jmp2.uk/sam-USBC240001823.m3u8
-#EXTINF:-1,Hallmark Movies & More
-https://jmp2.uk/sam-USBD270001633.m3u8
-#EXTINF:-1,Movie Favorites By Lifetime
-https://jmp2.uk/sam-USBB5200019FO.m3u8
-#EXTINF:-1,Gravitas Movies
-https://jmp2.uk/sam-USBD700011RE.m3u8
-#EXTINF:-1,MyTime Movie Network
-https://jmp2.uk/sam-USBC3900018K6.m3u8
-#EXTINF:-1,Crime 24/7
-https://jmp2.uk/sam-USAK3508703A.m3u8
-#EXTINF:-1,American Crimes
-https://jmp2.uk/sam-USBD42000250Q.m3u8
-#EXTINF:-1,Law & Crime
-https://jmp2.uk/sam-USAK3508710A.m3u8
-#EXTINF:-1,Game Show Central
-https://jmp2.uk/sam-USAJ3400012FA.m3u8
-#EXTINF:-1,Gusto TV
-https://jmp2.uk/sam-USAK3508724A.m3u8
+#EXTINF:-1,So…Real
+https://jmp2.uk/sam-GBBD1100009M9.m3u8
 #EXTINF:-1,Tastemade
 https://jmp2.uk/sam-USBD7000189R.m3u8
-#EXTINF:-1,VICE
-https://jmp2.uk/sam-USBB1900006NY.m3u8
-#EXTINF:-1,FOX SOUL
-https://jmp2.uk/sam-USBA300032J7.m3u8
+#EXTINF:-1,TBS
+http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1,TED
 https://jmp2.uk/sam-USBC2100013WI.m3u8
-#EXTINF:-1,Mysteries Xplored
-https://jmp2.uk/sam-USBB5200028MM.m3u8
-#EXTINF:-1,Ancient Aliens
-https://jmp2.uk/sam-US3300010F5.m3u8
+#EXTINF:-1,The Chat Show Channel
+https://jmp2.uk/sam-GBBD1900003JT.m3u8
+#EXTINF:-1,The Film Detective
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8
+#EXTINF:-1,The Pet Collective
+https://jmp2.uk/sam-GBAJ40003481.m3u8
+#EXTINF:-1,Timeline
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-timelinenz-samsungnz/playlist.m3u8
+#EXTINF:-1,Top Movies - Rakuten TV
+https://jmp2.uk/sam-GB2600018PD.m3u8
+#EXTINF:-1,Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,VICE
+https://jmp2.uk/sam-USBB1900006NY.m3u8
+#EXTINF:-1,Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
