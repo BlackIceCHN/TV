@@ -33,8 +33,6 @@ https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
 #EXTINF:-1,CBS News Philadelphia (720p)
 https://cbsn-phi.cbsnstream.cbsnews.com/out/v1/5c9ad3e215984b0e9ad845b335216b72/master.m3u8
-#EXTINF:-1,Charge! (720p)
-https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1,CineLife
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1,CineView
@@ -51,16 +49,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://jmp2.uk/sam-GB300001QO.m3u8
 #EXTINF:-1,Crime 24/7
 https://jmp2.uk/sam-USAK3508703A.m3u8
-#EXTINF:-1,C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1,Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-#EXTINF:-1,Disney Channel (720p)
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 #EXTINF:-1,Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
-#EXTINF:-1,FOX 5 Atlanta GA (WAGA-TV) (720p)
-https://apollo.production-public.tubi.io/live/ac-waga.m3u8
 #EXTINF:-1,Fox News Channel
 http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1,FOX News Now (720p)
@@ -115,8 +107,6 @@ https://jmp2.uk/sam-GBBB1500004LG.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
 #EXTINF:-1,Newsmax
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-#EXTINF:-1,Newsy
-https://linear-460.frequency.stream/dist/vix/460/hls/master/playlist.m3u8
 #EXTINF:-1,PAC 12 Insider (1080p)
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Peter Rabbit español
